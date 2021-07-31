@@ -4,7 +4,9 @@
 
 ### **Instructions**
 
-1. Use A and D to move the goalkeeper.
-2. Use the Left Mouse Button (LMB) to kick the ball !!
+1. Download the file "football.sb3".
+2. Open it with Scratch.
+3. Use A and D to move the goalkeeper.
+4. Use the Left Mouse Button (LMB) to kick the ball !!
 
 LET'S PLAY !!
